@@ -1,5 +1,5 @@
 # 💫 About Me:
-👾 Code Ninja – Always hacking away and leveling up in tech.<br>💻 Full-Stack Toolbelt – From Python to C++, JavaScript to HTML/CSS—got all the code configs on deck.<br>🔌 Backend Hacker – Digging into HTTP spells and Android builds, powering up my server-side skills.<br>🤖 AI Geek – Automation and AI? That's my digital candy, can’t get enough!<br>🎨 Pixel Pusher – Blender wizard and Canva hustler, crafting visuals like a pro.<br>🧠 Algo Architect – Building out my DSA toolkit, diving deep into the low-level hardware zones.<br>💥 Project Junkie – Fueling my code with fresh ideas and always on the hunt for the next big build.<br>🔄 Zero Regret Mode – Life’s a sandbox, so I’m here to try every script, library, and framework once.<br><br><br><br><br><br>
+Just a regular everday normal mf !
 
 
 # 💻 Tech Stack:
